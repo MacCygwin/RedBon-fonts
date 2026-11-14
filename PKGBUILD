@@ -1,5 +1,5 @@
 pkgname=redbon-font
-pkgver=2026.09.01
+pkgver=2026.09.15
 pkgrel=1
 pkgdesc="Fetches the fonts necessary for Redbon Desktop"
 arch=('any')
